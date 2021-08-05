@@ -1,0 +1,14 @@
+{
+  "name": "myprints",
+  "version": "1.0.0",
+  "description": "myprints is an ecommerce website where users can purchase custom prints of various sizes and materials",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Hari Vengadesh Elangeswaran | Bhaskar Koilada Rao",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
