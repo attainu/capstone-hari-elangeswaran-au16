@@ -1,10 +1,11 @@
+import React from "react"
 import './App.css';
+
 
 const App = () => {
   return (
-    <>
-      App
-    </>
+
+    <h1>Welcome To myPrints</h1>
   )
 }
 
